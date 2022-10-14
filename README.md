@@ -12,6 +12,5 @@ questions or commands. The AI will respond accordingly. The AI will learn from t
 commands that it is given, and will provide better solutions over time. The self-aware AI is designed
 to be use as a real human, that providing information and Thinking like humans.
 
-
-
- 
+• We are trying to make this A.I. as human-like as possible, so it can understand human emotions and be able
+to have a conversation with a person this is base model of ai.
