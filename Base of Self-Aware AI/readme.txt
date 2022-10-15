@@ -10,8 +10,9 @@ step 4: just type code given below
 
 2. Error you will see pyaudio module not found
 step 1: go to this link >> https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
-step 2: open terminal
-step 3: run command >> pip install "downloaded pyaudio file"
+step 2: Download this file as your python version
+step 3: open terminal
+step 4: run command >> pip install "./filename" 
 
 And your Error is solved..
 happy Coding....
